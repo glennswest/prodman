@@ -1,0 +1,29 @@
+{
+  "name": "prodman",
+  "version": "1.0.0",
+  "description": "Simple Rest Client to Excel Spreadsheet",
+  "main": "prodjson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glennswest/prodman.git"
+  },
+  "keywords": [
+    "json",
+    "rest"
+  ],
+  "author": "glenn s west",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glennswest/prodman/issues"
+  },
+  "homepage": "https://github.com/glennswest/prodman#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "json2xls": "^0.1.2",
+    "restify": "^4.3.0",
+    "util": "^0.10.3"
+  }
+}
